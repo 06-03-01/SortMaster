@@ -1,6 +1,5 @@
 {
   "name": "SortMaster",
-  "homepage": "https://sortmaster.vercel.app/",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
